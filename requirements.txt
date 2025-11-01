@@ -1,4 +1,5 @@
 tensorflow
+pydeck
 scikit-learn
 holidays
 streamlit
