@@ -1,4 +1,6 @@
 tensorflow
+plotly 
+xgboost
 pydeck
 scikit-learn
 holidays
